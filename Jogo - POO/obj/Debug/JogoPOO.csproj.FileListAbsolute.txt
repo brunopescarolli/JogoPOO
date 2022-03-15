@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\bin\Debug\Jogo - POO.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\bin\Debug\Jogo - POO.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\bin\Debug\Jogo - POO.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\obj\Debug\JogoPOO.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\obj\Debug\JogoPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\obj\Debug\JogoPOO.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\obj\Debug\Jogo - POO.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\Game-POO\Jogo - POO\obj\Debug\Jogo - POO.pdb
+E:\GamePOO\Jogo - POO\bin\Debug\Jogo - POO.exe.config
+E:\GamePOO\Jogo - POO\bin\Debug\Jogo - POO.exe
+E:\GamePOO\Jogo - POO\bin\Debug\Jogo - POO.pdb
+E:\GamePOO\Jogo - POO\obj\Debug\JogoPOO.csproj.AssemblyReference.cache
+E:\GamePOO\Jogo - POO\obj\Debug\JogoPOO.csproj.SuggestedBindingRedirects.cache
+E:\GamePOO\Jogo - POO\obj\Debug\JogoPOO.csproj.CoreCompileInputs.cache
+E:\GamePOO\Jogo - POO\obj\Debug\Jogo - POO.exe
+E:\GamePOO\Jogo - POO\obj\Debug\Jogo - POO.pdb
